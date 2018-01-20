@@ -1,0 +1,118 @@
+* {
+  margin-left: 100px;
+}
+
+header {
+  height: 100px;
+  margin-left: 100px;
+}
+
+#delicious {
+  font-style: italic;
+  font-size: 32px;
+}
+
+#bestBlog {
+  font-size: 12px;
+}
+
+header nav ul {
+  display: inline-block;
+}
+
+#headerImages {
+  margin-left: 410px;
+}
+
+#headerImages li {
+  display: inline-block;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h5 {
+  font-size: 12px;
+}
+
+main ul li {
+  font-size: 12px;
+}
+
+#printImg {
+  display: inline-block;
+}
+
+#printIcon {
+  position: absolute;
+  top: 150px;
+  left: 930px;
+}
+
+#printWord {
+  position: absolute;
+  top: 150px;
+  left: 950px;
+}
+
+#chocoPizza {
+  display: block;
+  width: 890px;
+}
+
+main section div {
+  padding: 16px;
+  margin-right: 175px; 
+}
+
+main section ul {
+  z-index: 10;
+}
+
+#leftList {
+  font-size: 20px;
+  position: absolute;
+  top: 1100px;
+  left: 300px;
+}
+
+#rightList {
+  font-size: 20px;
+  position: absolute;
+  top: 1100px;
+  left: 600px;
+}
+
+footer {
+  height: 100px;
+  margin-left: 100px;
+}
+
+footer section {
+  display: inline-block;
+}
+
+footer div img {
+  margin-left: 450px;
+}
+
+#copyright {
+  margin-left: 345px;
+}
+
+#published {
+  margin-left: 375px;
+}
+
+button {
+  background: #000;
+  color: white;
+  border: none;
+  font-size: 18px;
+  margin-top: 10px;
+  padding: 10px 30px;
+  position: absolute;
+  top: 1325px;
+  left: 700px;
+}
